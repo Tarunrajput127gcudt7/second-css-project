@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: black;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+
+}
+.container a{
+   margin-left: 55px;
+   text-decoration: none;
+   color: aliceblue;
+   
+}
